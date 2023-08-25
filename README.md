@@ -1,5 +1,5 @@
 # Financial Analysis and Election Results with Python
-In this project, we analyze financial and election data using Python scripts. The scripts read data from CSV files, perform calculations, and provide insightful results. Both scripts output the analysis to the terminal and also export the results to text files.
+In this project, I analyze financial and election data using Python scripts. The scripts read data from CSV files, perform calculations, and provide insightful results. Both scripts output the analysis to the terminal and also export the results to text files.
 
 # Table of Contents
 Financial Analysis (financial_analysis.py)\
